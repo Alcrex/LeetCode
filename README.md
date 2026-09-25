@@ -17,3 +17,4 @@ My LeetCode solutions.
 - [3483.  Unique 3 Digit Even Numbers](src/3483.%20Unique%203-Digit%20Even%20Numbers.c)
 - [3498.  Reverse Degree of a String](src/3498.%20Reverse%20Degree%20of%20a%20String.c)
 - [3550.  Smallest Index With Digit Sum Equal to Index](src/3550.%20Smallest%20Index%20With%20Digit%20Sum%20Equal%20to%20Index.c)
+- [3903.  Smallest Stable Index I](src/3903.%20Smallest%20Stable%20Index%20I.c)
