@@ -14,4 +14,5 @@ My LeetCode solutions.
 - [1873.  Calculate Special Bonus](src/1873.%20Calculate%20Special%20Bonus.sql)
 - [3090.  Maximum Length Substring With Two Occurrences](src/3090.%20Maximum%20Length%20Substring%20With%20Two%20Occurrences.c)
 - [3471.  Find the Largest Almost Missing Integer](src/3471.%20Find%20the%20Largest%20Almost%20Missing%20Integer.c)
+- [3498.  Reverse Degree of a String](src/3498.%20Reverse%20Degree%20of%20a%20String.c)
 - [3550.  Smallest Index With Digit Sum Equal to Index](src/3550.%20Smallest%20Index%20With%20Digit%20Sum%20Equal%20to%20Index.c)
