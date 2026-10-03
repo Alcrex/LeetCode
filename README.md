@@ -7,6 +7,7 @@ My LeetCode solutions.
 - [1.  Two Sum](src/1.%20Two%20Sum.c)
 - [7.  Reverse Integer](src/7.%20Reverse%20Integer.c)
 - [9.  Palindrome Number](src/9.%20Palindrome%20Number.c)
+- [20.  Valid Parentheses](src/20.%20Valid%20Parentheses.c)
 - [584.  Find Customer Referee](src/584.%20Find%20Customer%20Referee.sql)
 - [595.  Big Countries](src/595.%20Big%20Countries.sql)
 - [796.  Rotate String](src/796.%20Rotate%20String.c)
