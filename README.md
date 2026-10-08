@@ -13,6 +13,7 @@ My LeetCode solutions.
 - [796.  Rotate String](src/796.%20Rotate%20String.c)
 - [856.  Score of Parentheses](src/856.%20Score%20of%20Parentheses.c)
 - [921.  Minimum Add to Make Parentheses Valid](src/921.%20Minimum%20Add%20to%20Make%20Parentheses%20Valid.c)
+- [1021.  Remove Outermost Parentheses](src/1021.%20Remove%20Outermost%20Parentheses.c)
 - [1148.  Article Views I](src/1148.%20Article%20Views%20I.sql)
 - [1757.  Recyclable and Low Fat Products](src/1757.%20Recyclable%20and%20Low%20Fat%20Products.sql)
 - [1873.  Calculate Special Bonus](src/1873.%20Calculate%20Special%20Bonus.sql)
