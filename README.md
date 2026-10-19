@@ -18,6 +18,7 @@ My LeetCode solutions.
 - [1541.  Minimum Insertions to Balance a Parentheses String](src/1541.%20Minimum%20Insertions%20to%20Balance%20a%20Parentheses%20String.c)
 - [1757.  Recyclable and Low Fat Products](src/1757.%20Recyclable%20and%20Low%20Fat%20Products.sql)
 - [1873.  Calculate Special Bonus](src/1873.%20Calculate%20Special%20Bonus.sql)
+- [2089.  Find Target Indices After Sorting Array](src/2089.%20Find%20Target%20Indices%20After%20Sorting%20Array.c)
 - [3090.  Maximum Length Substring With Two Occurrences](src/3090.%20Maximum%20Length%20Substring%20With%20Two%20Occurrences.c)
 - [3345.  Smallest Divisible Digit Product I](src/3345.%20Smallest%20Divisible%20Digit%20Product%20I.c)
 - [3471.  Find the Largest Almost Missing Integer](src/3471.%20Find%20the%20Largest%20Almost%20Missing%20Integer.c)
